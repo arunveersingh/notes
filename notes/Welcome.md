@@ -1,1 +1,1 @@
-This is a test sync of notes vault using YAOS.
+Yet another sync test by YAOS!
