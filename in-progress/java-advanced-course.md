@@ -113,10 +113,9 @@ Java developers looking to significantly enhance their OOP skills and apply desi
 
 ## **Additional Course Enhancements**
 - **Deep Dive Videos**: Each module could include one or two videos going into specific, complex scenarios or edge cases.
-- **Live Coding Sessions**: Regular live streams where you refactor code or implement patterns in real-time, addressing viewer questions.
+- **Hands-on Coding Sessions**: Regular live streams where you refactor code or implement patterns in real-time, addressing viewer questions.
 - **Community Projects**: Encourage viewers to contribute to or fork a GitHub repository where they can practice these principles.
 - **Resource Lists**: Provide extensive reading lists, including academic papers, books, and online resources for each module.
-- **Certification or Badge**: Offer a challenge or project at the end which, if completed, could earn participants a badge or certificate from your channel.
 
 ---
 
